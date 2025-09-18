@@ -1,2 +1,2 @@
-# Legacy Liquid Glass
+# Liquid Sequoia 
 Liquid Glass for older MacOS's
